@@ -1,6 +1,6 @@
- Automatic Server Room Monitoring System
+# Automatic Server Room Monitoring System
 
- Project Overview
+ ## Project Overview
 This project is an Automatic Server Room Monitoring System developed using ESP32 and Arduino C Features
 - Temperature monitoring using DHT22
 - Humidity monitoring
@@ -11,7 +11,7 @@ This project is an Automatic Server Room Monitoring System developed using ESP32
 - Wi-Fi remote monitoring
 - Buzzer alarm for abnormal conditions
 
- Hardware Used
+ ## Hardware Used
 - ESP32 Development Board
 - DHT22 Temperature and Humidity Sensor
 - Potential Transformer (PT)
@@ -20,13 +20,13 @@ This project is an Automatic Server Room Monitoring System developed using ESP32
 - 3.5-inch TFT LCD
 - Buzzer
 
- Software Used
+ ## Software Used
 - Arduino IDE / ArduinoDroid
 - Arduino C++
 - GitHub
 
- Author
+ ## Author
 Abenawe Joseph 
 
- License
+ ## License
 This project is for educational purposes.
